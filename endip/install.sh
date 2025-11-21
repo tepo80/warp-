@@ -378,7 +378,7 @@ cloner() {
 		license="$input_license"
 	fi
 	echo -e "${cyan}######################${rest}"
-	echo -e "${purple} Warp License cloner ${rest}"
+	echo -e "${purple} Warp License cloner ${rest}"
 	echo -e "${green}Starting...${rest}"
 	echo -e "${purple}-------------------------------------${rest}"
 	while true; do
