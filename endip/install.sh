@@ -556,7 +556,7 @@ case "$choice" in
 	;;
 0)
 	echo -e "${purple}*********************${rest}"
-	echo -e "${cyan}By ${rest}"
+	echo -e "${cyan}By ${rest}"
 	exit
 	;;
 *)
